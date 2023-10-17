@@ -1,6 +1,6 @@
 ## Olá, meu nome é Alex Raimundo de Oliveira
 <div align="justify">
-  <p>Cursando 9° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
+  <p>Cursando o 10° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
   <p>Atualmente desenvolvedor de sistemas ERP, BACK-END Java<p>
 </div
 
